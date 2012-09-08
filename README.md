@@ -1,4 +1,0 @@
-myApp
-=====
-
-Student is myMarket
